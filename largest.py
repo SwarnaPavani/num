@@ -1,9 +1,9 @@
-p=input()
-q=input()
+l=input()
+m=input()
 r=input()
-if p>q and p>r:
-	print(p)
-elif (q>r):
-		print(q)
+if l>m and l>r:
+	print(l)
+elif (m>r):
+		print(m)
 else:
 	print(r)
